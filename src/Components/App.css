@@ -1,0 +1,33 @@
+.navbar{
+    width: 1000px;
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.naw{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.btn1{
+    width: 160px;
+    height: 52px;
+    background-color: rgb(55, 36, 226);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.main_title{
+    /* background-color: aqua; */
+    width: 100wv;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
